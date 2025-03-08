@@ -1,4 +1,5 @@
 ---
+
 title: Detaching a fork
 intro: You can disconnect a repository from its fork network by leaving the network or manually deleting the fork and recreating it without any connection to the original.
 versions:
